@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30816.121
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HitoBito", "HitoBito\HitoBito.vbproj", "{D361A9A2-7C95-4B47-82FD-D8131EDF84C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D361A9A2-7C95-4B47-82FD-D8131EDF84C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D361A9A2-7C95-4B47-82FD-D8131EDF84C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D361A9A2-7C95-4B47-82FD-D8131EDF84C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D361A9A2-7C95-4B47-82FD-D8131EDF84C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {009992BA-1A35-4C86-902E-BAD09EFF0423}
+	EndGlobalSection
+EndGlobal
