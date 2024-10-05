@@ -20,4 +20,5 @@ https://github.com/user-attachments/assets/75fd8175-6ae8-45a4-aa04-17ab45387afc
 BTC: bc1qk7q3m5spctnevttzwsyv9n3fpmcc04s9nruhjz
 
 ## Disclaimer
-This project was made for educational purposes only. I am not responsible if you choose to use this illegally/maliciously.
+This project was made for educational purposes only.  
+I am not responsible if you choose to use this illegally/maliciously.  
