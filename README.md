@@ -2,6 +2,8 @@
 Hitobito, also known as Ransom:MSIL/Hibotibo.AA!MTB to Microsoft is an ransomware.  
 It encrypts files with AES-256, the source has now been leaked for free.  
 
+Thanks to me, you no longer need to pay this group $50 to get the source. 🤣
+
 ## Proof
 https://github.com/user-attachments/assets/75fd8175-6ae8-45a4-aa04-17ab45387afc
 
