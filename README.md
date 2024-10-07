@@ -27,8 +27,8 @@ https://github.com/user-attachments/assets/75fd8175-6ae8-45a4-aa04-17ab45387afc
 ![Screenshot](https://github.com/user-attachments/assets/26a91c1a-69c2-4e9f-8594-8f44999107c7)
 
 ## 🔰 〢 Features
-- Alert sound on encrypted system
 - MD5 hashed decryption password
+- Alert sound on encrypted system
 - Add ransom window to Startup
 - Encryption of several folders
 - Dropping of a ransom note
